@@ -77,7 +77,9 @@ for i, mhs in enumerate(mahasiswa):
 print("-" * 60)
 # penjelasan code menambah data
 class Mahasiswa:
+
     def __init__(self, nama, nim, nilai_tugas, nilai_uts, nilai_uas):
+    
         self.nama = nama
         self.nim = nim
         self.nilai_tugas = nilai_tugas
