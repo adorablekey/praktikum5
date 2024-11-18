@@ -35,6 +35,7 @@ print(list_a)
 ![1](https://github.com/user-attachments/assets/c69b9b21-71a2-400f-b25f-04d401587cc8)
 # hasil pemograman tersebut
 ![2](https://github.com/user-attachments/assets/0902539d-cc80-4971-b8f3-ab4b7430abf3)
+# menambahkan data.py
 
 
 
