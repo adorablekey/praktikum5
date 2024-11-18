@@ -85,3 +85,4 @@ class Mahasiswa:
         self.nilai_tugas = nilai_tugas
         self.nilai_uts = nilai_uts
         self.nilai_uas = nilai_uas
+       __init__: Konstruktor ini digunakan untuk menginisialisasi objek Mahasiswa dengan atribut: nama, nim, nilai_tugas, nilai_uts, nilai_uas 
