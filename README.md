@@ -75,3 +75,4 @@ for i, mhs in enumerate(mahasiswa):
     print(f"| {i+1:<2} | {mhs.nama:<10} | {mhs.nim:<4} | {mhs.nilai_tugas:<5} | {mhs.nilai_uts:<5} | {mhs.nilai_uas:<5} | {nilai_akhir:<9.2f} |")
 
 print("-" * 60)
+# penjelasan code menambah data
