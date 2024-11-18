@@ -117,7 +117,9 @@ Meminta pengguna untuk memasukkan data mahasiswa berulang kali hingga pengguna m
 
 
 print("-" * 60)
+
 print("| No | Nama       | NIM  | Tugas | UTS  | UAS  | Akhir     |")
+
 print("-" * 60)
 
 for i, mhs in enumerate(mahasiswa):
