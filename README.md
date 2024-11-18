@@ -65,6 +65,7 @@ while True:
         break
 
 print("-" * 60)
+
 print("| No | Nama       | NIM  | Tugas | UTS  | UAS  | Akhir     |")
 print("-" * 60)
 
