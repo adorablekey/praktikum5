@@ -67,6 +67,7 @@ while True:
 print("-" * 60)
 
 print("| No | Nama       | NIM  | Tugas | UTS  | UAS  | Akhir     |")
+
 print("-" * 60)
 
 for i, mhs in enumerate(mahasiswa):
