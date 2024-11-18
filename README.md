@@ -37,6 +37,7 @@ print(list_a)
 ![2](https://github.com/user-attachments/assets/0902539d-cc80-4971-b8f3-ab4b7430abf3)
 # menambahkan data.py
 class Mahasiswa:
+
     def __init__(self, nama, nim, nilai_tugas, nilai_uts, nilai_uas):
         self.nama = nama
         self.nim = nim
