@@ -131,3 +131,6 @@ print("-" * 60)
 
 Header tabel dicetak terlebih dahulu, diikuti oleh baris-baris data untuk setiap mahasiswa, Untuk setiap mahasiswa, metode hitung_nilai_akhir dipanggil untuk menghitung nilai akhir, lalu data ditampilkan dalam format tabel
 # code program tersebut:
+
+![3](https://github.com/user-attachments/assets/bffa7ba4-cb4e-4f7e-90fd-a56514f82312)
+
