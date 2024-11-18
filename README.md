@@ -51,6 +51,7 @@ class Mahasiswa:
 mahasiswa = []
 
 while True:
+
     nama = input("Nama: ")
     nim = int(input("NIM: "))
     nilai_tugas = int(input("Nilai Tugas: "))
