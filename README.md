@@ -33,5 +33,6 @@ list_a.extend(list_b)
 print(list_a)
 # code program tersebut
 ![1](https://github.com/user-attachments/assets/c69b9b21-71a2-400f-b25f-04d401587cc8)
+# hasil pemograman tersebut
 
 
