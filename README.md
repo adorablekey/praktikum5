@@ -31,5 +31,6 @@ print(list_b)
 
 list_a.extend(list_b)
 print(list_a)
+# code program tersebut
 ![Screenshot 2024-11-18 221554](https://github.com/user-attachments/assets/c80e3efb-2359-4b06-94db-f05cabccbc09)
 
